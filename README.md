@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aahmadfaraz
-- 👀 I’m interested in React, Machine Learning and Cloud Techs.
-- 🌱 I’m currently learning React, ML and Cloud Techs.
+- 👀 I’m interested in Flutter, Machine Learning and Cloud Techs.
+- 🌱 I’m currently learning Flutter, ML and Cloud Techs.
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me afaraz2647@gmail.com
 
