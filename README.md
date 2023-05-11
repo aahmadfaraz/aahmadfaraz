@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aahmadfaraz
-- 👀 I’m interested in Flutter, Machine Learning and Ecommerce.
-- 🌱 I’m currently learning Flutter and ML.
+- 👀 I’m interested in Application Development & Machine Learning.
+- 🌱 I’m currently working on Flutter.
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me afaraz2647@gmail.com
 
