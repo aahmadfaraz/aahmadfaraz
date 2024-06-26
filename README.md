@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aahmadfaraz
-- 👀 I’m interested in Application Development & Machine Learning.
-- 🌱 I’m currently working on Flutter.
-- 💞️ I’m looking to collaborate on Open Source Projects.
+- 👀 I’m interested in Application Development, Machine Learning & Deep Learning
+- 🌱 I’m currently working on Flutter
+- 💞️ I’m looking to collaborate on Open Source ML work
 - 📫 How to reach me afarazdev@gmail.com
 
 <!---
