@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aahmadfaraz
 - 👀 I’m interested in Mobile App Development, ML, DL & Gen AI
-- 🌱 I’m currently working on Flutter
-- 💞️ I’m looking to collaborate on Open Source ML work
+- 🌱 I’m currently working on AI
+- 💞️ I’m looking to collaborate on Open Source Gen AI work
 - 📫 How to reach me afarazdev@gmail.com
 
 <!---
