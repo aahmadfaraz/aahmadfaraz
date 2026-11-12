@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @aahmadfaraz
-- 👀 I’m interested in Mobile App Development, ML, DL & Gen AI
-- 🌱 I’m currently working on AI
-- 💞️ I’m looking to collaborate on Open Source Gen AI work
-- 📫 How to reach me afarazdev@gmail.com
-
-<!---
-aahmadfaraz/aahmadfaraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm **Ahmad Faraz** (@aahmadfaraz), a Software Engineer (Mobile App Developer).
+- 📱 I build mobile applications with **Flutter**, focusing on performance, great user experiences, and scalable solutions.
+- 🤖 Currently exploring **Artificial Intelligence, Generative AI, and Large Language Models (LLMs)**.
+- 🌱 Always learning, experimenting, and building with emerging technologies.
+- 📫 Reach me at: **[afarazdev@gmail.com](mailto:afarazdev@gmail.com)**
